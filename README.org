@@ -1,4 +1,8 @@
-#+title: hp_scribble
+#+title: schkribble
 
 * About
 A scribble pad
+
+#+begin_src python
+python main.py
+#+end_src
